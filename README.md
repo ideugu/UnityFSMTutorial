@@ -9,7 +9,6 @@
 | 플레이어 | IDLE | RUN | CHASE | ATTACK |
 | 몬스터 | IDLE | PATROL | CHASE | ATTACK |
 
-본 프로젝트는 교육적 목적으로 누구나 사용가능합니다. 
-
-프로젝트 관련 문의는 ideugu@ck.ac.kr로 연락주시기 바랍니다.
+본 프로젝트는 교육적 목적으로 누구나 사용 가능 합니다. 
+프로젝트 문의 : ideugu@ck.ac.kr
 
