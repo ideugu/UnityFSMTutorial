@@ -10,5 +10,6 @@
 | 몬스터 | IDLE | PATROL | CHASE | ATTACK |
 
 본 프로젝트는 교육적 목적으로 누구나 사용 가능 합니다. 
+
 프로젝트 문의 : ideugu@ck.ac.kr
 
